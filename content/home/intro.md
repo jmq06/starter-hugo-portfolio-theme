@@ -3,7 +3,7 @@ widget: about.avatar
 headless: true
 weight: 10
 author: admin
-widget_id: about
+widget_id: about.avatar
 ---
 👋 Hi, there! I'm **Jamie**, a budding data scientist pursuing a master's degree at Florida State University.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
