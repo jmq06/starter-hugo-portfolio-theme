@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -79,8 +79,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jamie Quinn is a research scientist in the Florida Center for Reading Research at Florida State University. She currently serves as data manager and data analyst for the [Reach Every Reader project ](https://reacheveryreader.gse.harvard.edu/)funded by the Chan Zuckerberg Initiative and a methodologist for the [Quantitative Methodology and Innovation Division](qmi.fsu.edu) at FCRR.  Before joining FCRR in 2017, she was a Postdoctoral Research Fellow at The University of Texas at Austin in the Meadows Center for Preventing Educational Risk. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She is a current student in the Interdisciplinary Data Science Masters Program as a Computer Science Major at FSU.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
