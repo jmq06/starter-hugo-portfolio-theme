@@ -18,12 +18,16 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  Dr. Quinn is a research scientist in the Florida Center for Reading
+  Research at Florida State University.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+  - Psychometrics
+  - Longitudinal Modeling
+  - Structural Equation Modeling
+  - Machine Learning
+  - Database Management
+  - Rstats Python & MySQL
 
 #education:
 #  courses:
@@ -44,17 +48,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/latentchange
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=jlS16TIAAAAJ&hl=en
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/jmq06
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jamie-quinn/
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jmq06
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
