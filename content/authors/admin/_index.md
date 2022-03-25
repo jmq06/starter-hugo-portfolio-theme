@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Jamie Quinn
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,17 +29,20 @@ interests:
   - Database Management
   - Rstats Python & MySQL
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+    - course: MS in Interdisciplinary Data Science
+      institution: Florida State University
+      year: 2024
+    - course: PhD in Developmental Psychology
+      institution: Florida State University
+      year: 2016
+    - course: MS in Developmental Psychology
+      institution: Florida State University
+      year: 2012
+    - course: BS in Psychology; Minor in Statistics
+      institution: Florida State University
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
